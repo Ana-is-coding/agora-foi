@@ -6,5 +6,5 @@ insert into tb_vilao(nm_vilao, ds_maldade, ds_poder)
 select id_vilao	id,
 	   nm_vilao,
        ds_maldade,
-       bt_poder
+       ds_poder
 from tb_vilao;
